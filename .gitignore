@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Database files
+*.db
+
+# IDE and OS specific files (optional, але корисно)
+.vscode/
+*.DS_Store
